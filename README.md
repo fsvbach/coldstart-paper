@@ -1,0 +1,1 @@
+This repository contains the code to reproduce the analysis in "Adaptive questionnaires and GPT-4: Tackling the cold start problem through simulated user interactions" (pre-print available soon here).

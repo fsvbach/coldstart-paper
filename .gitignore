@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+APIKEY.txt
+__pycache__
+bckp/
+~$*
+misc/
+*.pickle

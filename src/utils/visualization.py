@@ -46,6 +46,7 @@ class HandlerEllipse(HandlerPatch):
                                  edgecolor=orig_handle.get_edgecolor(),
                                  lw=orig_handle.get_linewidth())
         patch.set_transform(trans)
+        patch.set_linestyle('--')
         return [patch]
 
 party_colors = {

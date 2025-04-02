@@ -287,4 +287,4 @@ def plotGaussian(Gaussian, std=1, ax=None, **kwargs):
 def savefig(fig, title, destinations): 
     for path in destinations:
         fig.savefig(f"{path}/{title}.pdf", bbox_inches='tight') 
-        fig.savefig(f"{path}/eps/{title}.eps", bbox_inches='tight') 
+        # fig.savefig(f"{path}/eps/{title}.eps", bbox_inches='tight') 

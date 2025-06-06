@@ -65,7 +65,7 @@ class XPLORE:
     def __init__(self, 
                  reactions, 
                  prior_mean = np.array([0,0]), 
-                 prior_cov  = np.array([[1, 0], [0, 1]]), 
+                 prior_cov  = np.array([[.1, 0], [0, .1]]), 
                  xmin=-1, xmax=1, resolution=200):
         
         # Parameters

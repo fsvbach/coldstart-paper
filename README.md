@@ -1,6 +1,6 @@
 # Adaptive Political Surveys and GPT-4
 
-This repository contains the code and data to reproduce the analysis in "Adaptive political surveys and GPT-4: Tackling the cold start problem with simulated user interactions" ([pre-print available here](https://arxiv.org/pdf/2503.09311)).
+This repository contains the code and data to reproduce the analysis in "Adaptive political surveys and GPT-4: Tackling the cold start problem with simulated user interactions" ([published in PLoS One](https://doi.org/10.1371/journal.pone.0322690); an earlier [pre-print is available here](https://arxiv.org/pdf/2503.09311)).
 
 ## Repository Structure
 
@@ -61,5 +61,5 @@ Run notebooks in order:
 If you use this code in your research, please cite:
 
 ```
-[Citation information will be added after publication]
+Bachmann, F., Van Der Weijden, D., Heitz, L., Sarasua, C., & Bernstein, A. (2025). Adaptive political surveys and GPT-4: Tackling the cold start problem with simulated user interactions. PLOS One, 20(5), e0322690. https://doi.org/10.1371/journal.pone.0322690
 ```
